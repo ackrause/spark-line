@@ -1,0 +1,22 @@
+{
+  "name": "spark-line",
+  "version": "0.0.0",
+  "description": "A Polymer component for displaying a sparkline",
+  "main": "spark-line.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ackrause/spark-line.git"
+  },
+  "keywords": [
+    "sparkline"
+  ],
+  "author": "Andrew Krause <a.c.krause@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ackrause/spark-line/issues"
+  },
+  "homepage": "https://github.com/ackrause/spark-line"
+}

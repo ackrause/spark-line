@@ -1,0 +1,25 @@
+{
+  "name": "spark-line",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ackrause/spark-line",
+  "authors": [
+    "Andrew Krause <a.c.krause@gmail.com>"
+  ],
+  "description": "A Polymer component for displaying a sparkline",
+  "main": "spark-line.html",
+  "keywords": [
+    "sparkline"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.5.2"
+  }
+}
