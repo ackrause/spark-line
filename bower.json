@@ -20,6 +20,7 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "~0.5.2"
+    "polymer": "~0.5.2",
+    "polymer-d3": "figure-io/polymer-d3#~0.0.1"
   }
 }

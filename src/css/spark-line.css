@@ -1,3 +1,9 @@
 :host {
-  display: inline;
+  display: inline-block;
+}
+
+.sparkline {
+  fill: none;
+  stroke: #000;
+  stroke-width: 1px;
 }
